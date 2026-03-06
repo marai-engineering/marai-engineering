@@ -48,4 +48,4 @@ Mechanical Engineering Student at **Budapest University of Technology and Econom
 - Arabic — Native  
 - English — Fluent  
 - German — C1
--->
+  
