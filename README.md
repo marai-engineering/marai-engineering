@@ -1,6 +1,6 @@
 # Marai Abed Alrahman
 
-BSc Mechanical Engineering Student (6th Semester)  
+BSc Mechanical Engineering Student   
 Budapest University of Technology and Economics (BME)
 
 ---
