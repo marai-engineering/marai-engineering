@@ -1,16 +1,51 @@
-## Hi there 👋
+# Marai Abed Alrahman
 
-<!--
-**marai-engineering/marai-engineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering Student at **Budapest University of Technology and Economics (BME)**.
 
-Here are some ideas to get you started:
+## Engineering Areas
+- Mechanical Design
+- Finite Element Analysis (FEA)
+- Manufacturing Engineering
+- Industrial Automation (PLC)
+- Engineering Simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tools & Software
+**CAD**
+- Autodesk Inventor
+- SolidWorks
+- AutoCAD
+
+**Simulation**
+- MATLAB
+- Simulink
+- Python
+- ANSYS (FEA)
+
+**Manufacturing**
+- Injection Molding
+- Metal Forming
+- CAM
+
+**Automation**
+- PLC Programming (Simulation)
+
+## Projects
+- Injection Molding Optimization – Plastic CUP
+- FEM Beam Analysis (MATLAB + ANSYS)
+- Metal Forming Die Design
+- Multi-DOF Vibration System Modeling
+- PLC Automation Simulations
+- 3D Printing Prototyping
+
+## Interests
+- Mechanical Design
+- Sustainable Manufacturing
+- Automation Systems
+- Robotics
+
+## Languages
+- Hebrew — Native  
+- Arabic — Native  
+- English — Fluent  
+- German — C1
 -->
